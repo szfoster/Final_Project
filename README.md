@@ -5,7 +5,7 @@
 
 ## Project Description
 
-Professional Sports League W/L% (MLB) Correlation Analysis
+Professional Sports League W/L% (NFL & EPL) Correlation Analysis
 
 ## Technologies Used
 
