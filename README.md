@@ -1,10 +1,24 @@
-# Final Project
-This will be where I post my final project for SAL 603 
+**#Final_Project**
 
-## Data Set 
-Our group has still not determined what we are going to do for our project, but we have some initial ideas
+**##Final project repository for SAL 603**
 
-### Initial Plan 
+**###Project Description**
+
+Professional Sports League W/L% (MLB) Correlation Analysis
+
+**###Technologies Used**
+
+Python
+
+**###Project Goals**
+
+To determine which offensive and defensive performance metrics are most strongly correlated with team win percentage across various professional sports leagues (MLB). We want to discover if team success is more strongly associated with peak single-seasonstatistical output or with consistent performance sustained across multiple seasons?
+
+**###Authors**
+
+Zach Spaulding, Shaelyn Rix, Zach Foster, Jacob VanDuynhoven
+
+### Steps Taken 
 1. Formalize the research questions and get approval
 2. Collect required data for analysis 
 3. Create an interactive application
