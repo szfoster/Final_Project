@@ -12,6 +12,13 @@ Borda Scores for creation of power rankings
 ## Technologies Used
 
 - Python
+- Pro Football Reference
+- Pro Basketball Reference
+- Pro Hockey Reference
+- FB Reference (Soccer)
+- Pybaseball
+- Fangraphs
+- Pro Baseball Reference
 
 ## Project Goals
 
