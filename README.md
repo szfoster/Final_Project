@@ -5,7 +5,9 @@
 
 ## Project Description
 
-Professional Sports League W/L% (NFL, MLB, NHL, NBA, and EPL) Correlation Analysis and Borda Scores for creation of power rankigns
+Professional Sports League W/L% (NFL, MLB, NHL, NBA, and EPL) Correlation Analysis over the past 5 seasons 
+
+Borda Scores for creation of power rankings
 
 ## Technologies Used
 
