@@ -15,6 +15,14 @@ Professional Sports League W/L% (NFL & EPL) Correlation Analysis
 
 To determine which offensive and defensive performance metrics are most strongly correlated with team win percentage in NFL and EPL. We want to discover whether team success is more strongly associated with peak single-season statistical output or with consistent performance sustained across multiple seasons.
 
+## Research Questions
+
+1. Which offensive and defensive performance metrics are most strongly correlated with team win percentage across professional sports leagues (NFL, NBA, MLB, NHL, EPL)?
+
+2. Is team success more strongly associated with peak single-season statistical output or with consistent performance sustained across multiple seasons?
+
+
+
 ## Authors
 
 - Zach Spaulding
